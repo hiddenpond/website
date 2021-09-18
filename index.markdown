@@ -5,11 +5,7 @@
 layout: home
 ---
 
-Hello!
-
-Hello again!
-
-
+Recent announcements:
 <ul>
   {% for post in site.posts %}
     <li>
