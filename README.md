@@ -1,2 +1,2 @@
-# website
+# Website
 Hidden Pond Website
